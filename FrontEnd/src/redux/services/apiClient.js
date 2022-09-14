@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const localServer = "https://localhost:44316/api/MobileSpeedCamera";
-const devServer = "http://janmarkolesco-001-site1.atempurl.com/api"
+const devServer = "http://janmarkolesco-001-site1.atempurl.com/api/MobileSpeedCamera"
 const API_URL = localServer;
 
 export function apiGet(uri) {
